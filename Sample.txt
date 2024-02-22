@@ -1,6 +1,15 @@
 weqweqeqweqe
+<<<<<<< HEAD
 
 test
 1
 2
 3
+=======
+qweqeqweqweqwesdasd
+qweqeqwe
+
+
+qweqweqwe
+qweqeqweqe
+>>>>>>> feature
